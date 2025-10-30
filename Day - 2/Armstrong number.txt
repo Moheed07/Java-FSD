@@ -1,0 +1,7 @@
+Armstrong number
+abundant number
+perfect number
+friendly pairs
+Harshad number
+amicable number
+Strong number
